@@ -1,5 +1,6 @@
 # Telegram Bot Script for Downloading Files
 
+Made for control robrock v1 via Telegram.
 This script uses a Telegram bot to download files sent by specific users. The script checks for updates from the bot, processes new messages containing files, and downloads the files to a specified directory.
 
 ## Requirements
